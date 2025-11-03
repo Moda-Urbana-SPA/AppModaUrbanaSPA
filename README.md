@@ -1,7 +1,5 @@
 # AppModaUrbanaSPA_work — Project summary
 
-Este README fue generado automáticamente y contiene sólo información extraída del proyecto incluido en el archivo zip.
-
 ## Archivos y estructura principal
 
 - `AppModaUrbanaSPA-main`
