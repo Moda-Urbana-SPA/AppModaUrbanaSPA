@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.modaurbanaspa.app-mergeDebugResources-66:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jopit\\.gradle\\caches\\8.9\\transforms\\62c5fe22202d4625e6ea867f4d0d682c\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
